@@ -82,19 +82,19 @@ export default class DateTimePickerDays extends Component {
             </tr>
 
             <tr>
-              <th className="dow">Su</th>
+              <th className="dow">Dom</th>
 
-              <th className="dow">Mo</th>
+              <th className="dow">Seg</th>
 
-              <th className="dow">Tu</th>
+              <th className="dow">Ter</th>
 
-              <th className="dow">We</th>
+              <th className="dow">Qua</th>
 
-              <th className="dow">Th</th>
+              <th className="dow">Qui</th>
 
-              <th className="dow">Fr</th>
+              <th className="dow">Sex</th>
 
-              <th className="dow">Sa</th>
+              <th className="dow">Sáb</th>
             </tr>
           </thead>
 
@@ -106,4 +106,3 @@ export default class DateTimePickerDays extends Component {
     );
   }
 }
-
